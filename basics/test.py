@@ -39,7 +39,7 @@ else:
 
 print(f"{is_ai}สาย AI ")
 
-print(f"ชื่อ {name} อายุ")
+print(f"ชื่อ {name}")
 print(f"อายุ {age} ปี")
 print(f"ปีหน้าอายุ {age+1} ปี")
 print(f"ราคาสินค้า {price} บาท")
